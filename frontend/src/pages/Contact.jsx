@@ -17,7 +17,7 @@ export const Contact = () => {
           <p className='font-semibold text-xl text-gray-600'>Our Store</p>
           <p className='text-gray-500'>Rajapalayam, Virudhunagar <br /> Tamilnadu, India</p>
           <p className='text-gray-500'>Tel: (455)555-0444 <br /> Email: svel7252@gmail.com</p>
-          <p className='font-semibold text-xl text-gray-600'>Careers at Forever</p>
+          <p className='font-semibold text-xl text-gray-600'>Careers at FashionNow</p>
           <p className='text-gray-500'>Learn more about our team and job openings.</p>
           <button className='border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'>Explore Jobs</button>
         </div>
